@@ -1,0 +1,31 @@
+* {
+    padding: 0;
+    margin: 0;
+    box-sizing: border-box;
+    font-size: .9rem;
+
+}
+
+a {
+    text-decoration: none !important;
+    color: black !important;
+    color: rgba(0, 0, 0, 0.781);
+}
+
+.dropdown {
+    font-size: .7rem;
+}
+
+/* from javascript */
+#artBtn:hover { /* style not working */
+    background-color: aliceblue;
+}
+
+.joinbtn:hover {
+    background-color: #f00;
+}
+
+.evClass {
+    background-color: blue !important;
+    justify-content: start;
+}
